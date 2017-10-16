@@ -1,0 +1,67 @@
+    1  yum install git
+    2  yum install composer
+    3      yum -y update
+    4  yum -y install epel-release
+    5   yum -y update
+    6   yum clean all
+    7   yum -y install httpd mariadb-server mariadb
+    8   rpm -Uvh https://mirror.webtatic.com/yum/el7/webtatic-release.rpm
+    9   yum -y update
+   10   yum clean all
+   11   yum -y install php56w php56w-mysql php56w-mcrypt php56w-dom php56w-mbstring
+   12      yum -y install php70w php70w-mysql php70w-mcrypt php70w-dom php70w-mbstring
+   13  php -v
+   14      systemctl start httpd
+   15      systemctl enable httpd
+   16      systemctl start mariadb
+   17      systemctl enable mariadb
+   18      mysql_secure_installation
+   19      curl -sS https://getcomposer.org/installer | php
+   20      mv composer.phar /usr/bin/composer
+   21  composer -V
+   22   yum -y install git
+   23  cd /var/www/
+   24  nano
+   25  git --version
+   26  git config --global user.name "YOUR_USERNAME"
+   27  git config --global user.name "heart"
+   28  git config --global user.name
+   29  git config --global user.email "heartlynmae.gatchion@global.edu.ph"
+   30  git config --global user.email
+   31  git config --global --list
+   32  git checkout master
+   33  cd project_folder
+   34  mkdir 
+   35  mkdir --help
+   36  rpm -Uvh https//dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
+   37  yum install httpd mariadb mariadb-server -y
+   38  systemctl start httpd.service
+   39  systemctl start mariadb.service
+   40  systemctl enable mariadb.service
+   41  systemctl start mariadb.service
+   42  systemctl enable httpd.service
+   43  curl -sS https://getcomposer.org/installer | php
+   44  mv composer.phar /usr/local/bin/composer
+   45  chmod +x /usr/local/bin/composer
+   46  yum install git -y
+   47  cd /var/www
+   48  git clone https://github.com/laravel/laravel.git
+   49  cd laravel/
+   50  composer install
+   51  yum install composer -y
+   52  systemctl status
+   53  composer -V
+   54   curl -sS https://getcomposer.org/installer | php
+   55      mv composer.phar /usr/bin/composer
+   56      chmod +x /usr/bin/composer
+   57  yum install mariadb mariadb-server -y
+   58  systemctl start httpd.service
+   59  systemctl start mariadb.service
+   60  systemctl enable httpd.service
+   61  systemctl enable mariadb.service
+   62  curl -sS     curl -sS https://getcomposer.org/installer | php
+   63      curl -sS https://getcomposer.org/installer | php
+   64  mv composer.phar/usr/local/bin/composer
+   65  mv --help
+   66  mv --target
+   67  history > heart.history.txt

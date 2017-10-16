@@ -1,0 +1,116 @@
+    1  mkdir /var/www/
+    2  cd /vaar/www/
+    3  cd /var/www/
+    4  git clone https://github.com/Paulinian/Test
+    5  cd laravel/
+    6  composer install
+    7  cd
+    8  curl -sS https://getcomposer.org/installer | php
+    9  mv composer.phar /usr/bin/composer
+   10   chmod +x /usr/bin/composer
+   11  composer -v
+   12  composer -V
+   13  cd /laravel/
+   14  cd /var/www/
+   15  cd laravel/
+   16  composer install 
+   17  passwd
+   18  yum install git
+   19  yum -y install composer
+   20  composer -v
+   21  cd
+   22  cd /var/www/laravel
+   23   /var/www/laravel
+   24   /var/www/laravel/
+   25  mkdir /var/www/laravel/
+   26  cd /var/www/laravel/
+   27  --history
+   28  cd /var/www/
+   29  cd laravel/
+   30  composer install
+   31      curl -sS https://getcomposer.org/installer | php
+   32  systemctl status
+   33  yum -y install
+   34  yum -y update
+   35  yum -y install epel-release
+   36  yum -y update
+   37  yum clean all
+   38      yum -y install httpd mariadb-server mariadb
+   39  php -v
+   40  curl -sS https://getcomposer.org/installer | php
+   41   mv composer.phar /usr/bin/composer
+   42  chmod +x /usr/bin/composer
+   43  composer -V
+   44  sudo curl -sS https://getcomposer.org/installer | php
+   45  composer install
+   46  yum install composer
+   47  mv composer.phar /usr/local/bin/composer
+   48  chmod +x /usr/local/bin/composer
+   49  yum install git -y
+   50  cd /var/www/
+   51  git clone https://github.com/Paulinian/Test
+   52  delete Github repo
+   53  ls -la
+   54  rm -rf Test
+   55  ls -la
+   56  git clone https://github.com/Paulinian/Test
+   57  ls -la
+   58  cd laravel/
+   59  composer install -y
+   60  yum install composer -y
+   61  chown -R apache.apache /var/www/laravel/
+   62  chmod -R 755 /var/www/laravel/
+   63  ls -la
+   64  mv .env.example .env
+   65  php key:generate
+   66  php artisan key:generate
+   67  cd laravel/
+   68  mysql_secure_installation
+   69   curl -sS https://getcomposer.org/installer | php
+   70  mv composer.phar /usr/bin/composer
+   71  chmod +x /usr/bin/composer
+   72  composer -V
+   73  rpm -Uvh https://mirror.webtatic.com/yum/el7/webtatic-release.rpm
+   74  yum -y update
+   75  yum clean all
+   76  yum -y install php70w php70w-mysql php70w-mcrypt php70w-dom php70w-mbstring
+   77  php -v
+   78  systemctl start httpd
+   79  systemctl enable httpd
+   80  systemctl start mariadb
+   81  systemctl enable mariadb
+   82   mysql_secure_installation
+   83  curl -sS https://getcomposer.org/installer | php
+   84  mv composer.phar /usr/bin/composer
+   85  chmod +x /usr/bin/composer
+   86  composer -V
+   87  yum -y install git
+   88  cd /var/www/
+   89  git clone https://github.com/Paulinian/Test
+   90  cd /var/www/laravel
+   91  composer install
+   92  yum install composer -y
+   93  chwon -R apache.apache /var/www/laravel/
+   94  chown -R apache.apache /var/www/laravel/
+   95  chown -R 755 /var/www/laravel/
+   96  ls -la
+   97  mv .env.example .env
+   98  php artisan key:generate
+   99  composer -v
+  100   curl -sS https://getcomposer.org/installer | php
+  101  mv composer.phar /usr/bin/composer
+  102  chmod +x /usr/bin/composer
+  103   composer -V
+  104  sudo  composer -V
+  105  yum -y install git
+  106  Do not run Composer as root/super user! See https://getcomposer.org/root for details
+  107  history
+  108  composer -v
+  109  php artisan key:generate
+  110  php -v
+  111   cd /var/www/laravel
+  112  composer install
+  113  history
+  114  cd /var
+  115  ls -la
+  116  history > andeng.history.txt

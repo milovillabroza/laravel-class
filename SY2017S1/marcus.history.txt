@@ -1,0 +1,66 @@
+    1  passwd
+    2  cd te$t
+    3  curl -sS https://getcomposer.org/installer | php
+    4  mv composer.phar /usr/local/bin/composer
+    5  chmod +x /usr/local/bin/composer
+    6  composer -V
+    7  yum install git
+    8  git --version
+    9  cd project_folder
+   10  cd
+   11  ls -la
+   12  ls
+   13  ls -la
+   14  mkdir testing
+   15  ls -la
+   16  git init
+   17  cd testing
+   18  git init
+   19  git clone https://github.com/Cuzmar/Te-t/blob/master/testing
+   20  git clone https://github.com/Cuzmar/Te-t/tree/master
+   21  git clone https://github.com/Cuzmar/Te-t.git
+   22  ls -la
+   23  git init
+   24  git add
+   25  git commit -am "initial commit"
+   26  git pull
+   27  dir
+   28  ls -la
+   29  git init
+   30  git remote add origin github_repo_link
+   31  place index.html to project folder
+   32  git remote add origin github_repo_link
+   33  place index.html to project foldergit remote add origin github_repo_link
+   34  git remote add origin github_repo_link place index.html to project folder
+   35  git add
+   36  git add .
+   37  git commit -am "initial commit"
+   38  git config -- global user.email "marcusangeles@gmail.com"
+   39  git config --global user.email "marcusangeles@gmail.com"
+   40  git config --global user.name "MarcusAngeles"
+   41  git commit -am "initial commit"
+   42  git push origin master
+   43  cd /var/www/laravel
+   44  mkdir /var/www/laravel
+   45  ls -la
+   46  cd /var/
+   47  cd /var/www/
+   48  cd testing
+   49  cd
+   50  cd testing
+   51  git config --global color.ui true
+   52  cd /path/to/repository
+   53  cd
+   54  cd /path/to/repository
+   55  git init
+   56  git clone https://github.com/Cuzmar/Te-t/blob/master/testing 
+   57  git remote add cuzmar https://github.com/Cuzmar/Te-t/blob/master/testing
+   58  git remote set-url cuzmar https://github.com/Cuzmar/Te-t/blob/master/testing
+   59  git remote -v
+   60  acac
+   61  ac -d root
+   62  egrep -r '(login|attempt|auth|success):' /var/log
+   63  clear
+   64  egrep -r '(login|attempt|auth|success):' /var/log
+   65  history
+   66  history > marcus.history.txt

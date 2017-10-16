@@ -1,0 +1,297 @@
+    1  cd laravel
+    2  cd mylaravel
+    3  cd laravel/
+    4  mkdir / var/www/
+    5  mkdir /var/www/
+    6   cd /var/www/
+    7  git clone https:github.com/onealbuenaflor/test
+    8  git clone https:github.com/onealbuenaflor/Test
+    9  git clone https://github.com/onealbuenaflor/Test
+   10  yum install git
+   11  yum install composer
+   12  nano index.html
+   13  cd laravel
+   14  cd
+   15  ..
+   16  cd laravel/
+   17  cd /var/www/
+   18  cd mylaravel
+   19  yum -y update
+   20  yum -y install epel-release
+   21  yum -y update
+   22  yum clean all
+   23  yum -y install mariadb-server mariadb
+   24  rpm -Uvh https://mirror.webtatic.com/yum/e17/webtatic-release.rpm
+   25  yum -y update
+   26  yum clean all
+   27  yum -y install php56w php56w-mysql php56w-mcrypt php56w-dom php56-mbstring
+   28  php -v
+   29  yum -y install php70w php70-mysql php70w-mcrypt php70w-dom php70w-mbstring
+   30  php -v
+   31  systemctl start httpd
+   32  systemctl enable httpd
+   33  systemctl start mariadb
+   34  systemctl enable mariadb
+   35  mysql_secure_installation
+   36  composer
+   37  -v
+   38  composer -v
+   39  mysql_secure_installation
+   40  mv composer.phar /usr/bin/composer
+   41  cd laravel/
+   42  chmod +x /usr/bin/composer
+   43  composer -v
+   44  yum -y install git
+   45  cd /var/www/
+   46  git clone https://github.com/onealbuenaflor/Test
+   47  git clone https://github.com/onealbuenaflor/test
+   48  cd /var/www/laravel
+   49  cd /var/www/mylaravel
+   50  composer create-project laravel/laravel ombwebsite
+   51  cd /var/www/laravel
+   52  composer install
+   53  php artisan generate
+   54  generate
+   55  php artisan key:generate
+   56  cd /var/www/ombwebsite
+   57  composer create-project laravel/laravel laravel
+   58  cd /var/www/laravel
+   59  cd var/www/
+   60  cd /var/www/
+   61  cd /var/www/laravel
+   62  composer create-project laravel/laravel
+   63  cd /var/www/laravel
+   64  composer install
+   65  chown -R apache:apache /var/www/laravel
+   66  cdmod -R 755 /var/www/laravel
+   67  chmod -R 755 /var/www/laravel
+   68  cd /var/www/laravel
+   69  mv .env.example .env
+   70  php artisan key:generate
+   71  cat /var/www/laravel/.env
+   72  nano /etc/httpd/conf/httpd.conf
+   73  ServerName 45.32.162.254
+   74  servername 45.32.162.254
+   75  45.32.162.254
+   76  nano /etc/httpd/conf/httpd.conf
+   77  systemctl restart http
+   78  nano /etc/httpd/conf/httpd.conf
+   79  passwd
+   80  yum install git
+   81  yum install composer
+   82  composer
+   83  cd /var/www/
+   84  cd laravel
+   85  yum -y update
+   86  yum -y install epel-release
+   87  yum-y update
+   88  yum -y update
+   89  yum clean all
+   90  yum -y install httpd mariadb-server mariadb
+   91  composer -v
+   92  composer install
+   93  cd /var/www/
+   94  git clone https://github.com/onealbuenaflor/test
+   95  cd var/www/laravel
+   96  cd /var/www/laravel
+   97  composer install
+   98  cd /var/www/laravel
+   99  mv .env.example .env
+  100  mv .env.example .yes
+  101  mv .env.example .env
+  102  php artisan key:generate
+  103  cat /var/www/laravel/.env
+  104  yum -y install nano
+  105  nano /etc/httpd/conf/httpd.conf
+  106  systemctl restart httpd
+  107  nano /etc/httpd/conf/httpd.conf
+  108  cd laravel
+  109  cd /var/www/
+  110  cd laravel/
+  111  nano /etc/httpd/conf/httpd.conf
+  112  php artisan:generate
+  113  nano /etc/httpd/conf/httpd.conf
+  114  composer -v
+  115  cd /var/www
+  116  composer -v
+  117  yum install git
+  118  cd /var/
+  119  cd /var/www/
+  120  git config --global user.name "Omb"
+  121  git config --global user.email jhanoneal.buenaflor@global.edu.ph
+  122  git init
+  123  git clone /github.com/onealbuenaflor/test
+  124  git clone /www.github.com/onealbuenaflor/test
+  125  git clone https://www.github.com/onealbuenaflor/test
+  126  git clone https://github.com/onealbuenaflor/test
+  127  git add <index.html>
+  128  git add index.html
+  129  git add index
+  130  git add index.html
+  131  git add <index>
+  132  nano index.html
+  133  git commit -a
+  134  git add
+  135  "git add"
+  136  'git add'
+  137  commit
+  138  initial commit
+  139  git commit "asda"
+  140  git commit -a
+  141  nano index.html
+  142  git commit -m "i added header"
+  143  git push origin master
+  144  git add
+  145  git add index.html
+  146  git add
+  147  git add <index.html>
+  148  composer -v
+  149  cd www
+  150  cd /var/
+  151  cd /var/www/
+  152  cd project_folder
+  153  cd /var/www/laravel
+  154  cd project_folder
+  155  yum install git
+  156  nano index.html
+  157  git init
+  158  git remote
+  159  git remote add origin
+  160  mkdir project_folder
+  161  mkdir test
+  162  git clone https://github.com/onealbuenaflor/test
+  163  global username
+  164  git config
+  165  git remote -v
+  166  git add <index.html>
+  167  git add index.html
+  168  git add
+  169  git add .
+  170  index.html
+  171  mkdir test
+  172  -ls -la
+  173  cd test
+  174  git init
+  175  cd /var/www/test
+  176  git clone https:/github.com/onealbuenaflor/test
+  177  git clone https://github.com/onealbuenaflor/test
+  178  mkdir test
+  179  -ls la
+  180  git add .
+  181  git commit -am "initial commit"
+  182  git add
+  183  git add *
+  184  nano index.html
+  185  git commit -a
+  186  git add index.html
+  187  git commit m "initial commit"
+  188  git commit -m "initial commit"
+  189  nano index.html
+  190  git commit -m "i added header"
+  191  nano index.html
+  192  git add
+  193  git add .
+  194  nano index.html
+  195  git commit -m "i added header"
+  196  git push
+  197  git pull
+  198  add/add
+  199  git status
+  200  git commit -a
+  201  cd /var/www/laravel/test
+  202  nano index.html
+  203  git push test master
+  204  git push onealbuenaflor test
+  205  git push master  test
+  206  git push test
+  207  var/www/test
+  208  var/www/laravel
+  209  /var/www/laravel
+  210  cd /var/www/laravel
+  211  cd test
+  212  nano index.html
+  213  git commit -m "i added header"
+  214  git add .
+  215  git commit -m "i added header"
+  216  nano index.html
+  217  git add .
+  218  git commit -m "i added h1"
+  219  git push origin master
+  220  get push --help
+  221  'git push --help'
+  222  git status
+  223  git push
+  224  git push origin master
+  225  git push origin test
+  226  git push origin master test
+  227  cd /var/
+  228  cd /var/www/laravel/test
+  229  git push master test
+  230  git push origin master
+  231  git pull
+  232  index.html
+  233  git status
+  234  git commit
+  235  git add/rm indext.html
+  236  git commit -a
+  237  rpm -Uvh https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
+  238  rpm -Uvh https://mirror.webstatic.com/yum/e17/webtatic-release.rpm
+  239  yum install php56w php56w-mysql php56w-mcrypt php56-dom php56w-mbstring -y
+  240  --skip-broken
+  241  yum install httpd maradb mariadb-server -y
+  242  systemctl start httpd.service
+  243  systemctl start mariadb.service
+  244  systemctl enable httpd.service
+  245  systemctl enable mariadb.service
+  246  yum install composer
+  247  curl -ss https://getcomposer.org/installer | php
+  248  mv composer.phar /usr/local/bin/composer
+  249  chmod +x /usr/local/bin/composer
+  250  yum sintall git -y
+  251  yum install git -y
+  252  cd/var/www
+  253  cd /var/www
+  254  git clone https://github.com/onealbuenaflor/test.git
+  255  git clone https://github.com/onealbuenaflor/test
+  256  cd laravel/
+  257  composer install
+  258  chown -R apache.apache /var/www/laravel/
+  259  chmod -R 755 /var/www/laravel
+  260  ls -la
+  261  mv .env.example .env
+  262  mv .env.example.env
+  263  ls -la
+  264  php artisan key:generate
+  265  cd config/
+  266  vi app.php
+  267  vi /etc/httpd/conf/httpd.conf
+  268  cd /var/www/larave.
+  269  cd /var/www/laravel
+  270  cd /var/www/laravel/config
+  271  systemctl restart httpd.server
+  272  systemctl restart httpd.service
+  273  systemclt status httpd.service
+  274  systemctl status httpd.service
+  275  -l
+  276  l
+  277  cd test
+  278  cd /var/
+  279  cd /var/test
+  280  cd /var/www/
+  281  cd /var/www/test
+  282  git status
+  283  git config
+  284  mkdir test
+  285  cd /var/www/laravel
+  286  mkdir test
+  287  git push
+  288  git push <onealbuenaflor><test>
+  289  git push onealbuenaflor test
+  290  git push onealbuenaflor/test
+  291  git push test
+  292  git config --global push
+  293  git config --global push.default matching
+  294  git push
+  295  git push <test>
+  296  git push test
+  297  history > oneal.history.txt

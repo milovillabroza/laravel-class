@@ -1,0 +1,484 @@
+    1  passwd
+    2      curl -sS https://getcomposer.org/installer | php
+    3  php composer.phar
+    4  php composer
+    5  php artisan
+    6  sudo mv composer.phar /usr/local/bin/composer
+    7  composer
+    8  cd /var
+    9  mkdir repo && cd repo
+   10  yum -y update
+   11  yum -y install epel-release
+   12  yum -y update
+   13  yum clean all
+   14  yum -y install httpd mariadb-server mariadb
+   15  rpm -Uvh https://mirror.webtatic,com/yum/e17/webtactic-release.rpm
+   16  rpm -Uvh https://mirror.webtatic,com/yum/el7/webtactic-release.rpm
+   17  rpm -Uvh https://mirror.webtatic.com/yum/el7/webtactic-release.rpm
+   18  rpm -Uvh https://mirror.webtatic.com/yum/el7/webtatic-release.rpm
+   19  yum -y update
+   20  yum clean all
+   21  yum install git
+   22  yum install composer
+   23  rpm -Uvh https://mirror.webtatic.com/yum/el7/webtatic-release.rpm
+   24      yum -y install php70w php70w-mysql php70w-mcrypt php70w-dom php70w-mbstring
+   25  yum install httpd mariadb mariadb-server -y
+   26  systemctl start httpd.service
+   27  systemctl start mariadb.service
+   28  systemctl enable httpd.service
+   29  systemctl enable mariadb.service
+   30  php -v
+   31  curl -sS https://getcomposer.org/installer | php
+   32  mv composer.phar /usr/local/bin/composer
+   33  chmod +x /usr/local/bin/composer
+   34  yum install git -y
+   35  cd /var/www/
+   36  git clone https://github.com/laravel/laravel.git
+   37  rm laravel
+   38  ls 
+   39  cat laravel
+   40  cd laravel
+   41  rm laravel
+   42  cd www
+   43  cd .
+   44  cd ..
+   45  cd laravel
+   46  ls 
+   47  cd ..
+   48  git clone https://github.com/laravel/laravel.git
+   49  cd laravel
+   50  install composer
+   51  composer install
+   52  yum install composer
+   53  composer install
+   54  chown -R apache:apache /var/www/laravel
+   55  chmod -R 755 /var/www/laravel
+   56  ls -la
+   57  php artisan key:generate
+   58  cd config/
+   59  vi app.php
+   60  cd config/
+   61  cd /var/www/laravel/config/
+   62  vi app.php
+   63      yum -y install php56w php56w-mysql php56w-mcrypt php56w-dom php56w-mbstring
+   64      yum -y install php70w php70w-mysql php70w-mcrypt php70w-dom php70w-mbstring
+   65  php -v
+   66  systemctl start httpd
+   67  systemctl enable httpd
+   68  systemctl enable mariadb
+   69  systemctl start mariadb
+   70  systemctl enable  mariadb
+   71  yum install git
+   72  yum install composer
+   73  git --version
+   74  systemctl start mariadb
+   75  systemctl enable  mariadb
+   76  mysql_secure_installation
+   77      curl -sS https://getcomposer.org/installer | php
+   78      mv composer.phar /usr/bin/composer
+   79  chmod +x /usr/bin/composer
+   80  composer -V
+   81  yum -y install git
+   82  cd /var/www/
+   83      git clone https://github.com/laravel/laravel.git
+   84      cd /var/www/laravel
+   85      composer install
+   86  chown -R apache:apache /var/www/laravel
+   87      chmod -R 755 /var/www/laravel
+   88  chmod -R 755 /var/www/laravel
+   89  cd /var/www/laravel
+   90  mv .env.example .env
+   91  php artisan key:generate
+   92  cat /var/www/laravel/.env
+   93  nano /etc/httpd/conf/httpd.conf
+   94  systemctl restart httpd
+   95  nano /etc/httpd/conf/httpd.conf
+   96  systemctl restart httpd
+   97  nano /etc/httpd/conf/httpd.conf
+   98  systemctl restart httpd
+   99  nano /etc/httpd/conf/httpd.conf
+  100  systemctl restart httpd
+  101  nano /etc/httpd/conf/httpd.conf
+  102  systemctl restart httpd
+  103  nano /etc/httpd/conf/httpd.conf
+  104  systemctl restart httpd
+  105  cd ..
+  106  cd..
+  107   cd..
+  108  cd 
+  109  cd
+  110  cd /var/www/
+  111  cd laravel
+  112  ls -la
+  113  php artisan key:generate
+  114  base64:7aQkbGYL347uIbgQq770voSch5pq2UBYRSss35Jx0fM=
+  115  nano app.php
+  116  vi app.php
+  117  git status
+  118  ls
+  119  cd test
+  120  git
+  121  git status
+  122  git add -a
+  123  git add -A
+  124  git status
+  125  git commit -m "initial commit"
+  126  git log
+  127  ls
+  128  cd ..
+  129  ls
+  130  mkdir cloned-repo
+  131  ls
+  132  mv test /cloned-repo
+  133  ls
+  134  cd cloned-repo
+  135  ls
+  136  ls -la
+  137  cd .
+  138  ls
+  139  cd test
+  140  git clone https://github.com/karlraymundo/test
+  141  ls
+  142  cd test
+  143  ls
+  144  cat test.html
+  145  nano test
+  146  nano test.html
+  147  cat test.html
+  148  git add test.html
+  149  git status
+  150  git commit -m "Initial Commit"
+  151  git init
+  152  ls
+  153  cat test.ht,;
+  154  cat test.html
+  155  git commit 
+  156  git init
+  157  ls
+  158  ls -la
+  159  git status
+  160  git push -u origin master
+  161  cd ..
+  162  cd /var/www/
+  163  ls -la
+  164  git add laravel
+  165  git init
+  166  git add laravel
+  167  git status
+  168  git push origin master
+  169  git push -u  origin master
+  170  git push -u origin master
+  171  ls
+  172  cd laravel
+  173  git push -u origin master
+  174  git status
+  175  cd cloned-repo
+  176  ls
+  177  cd ..
+  178  ls
+  179  cd cloned-repo
+  180  ls
+  181  cd test
+  182  ls
+  183  cd ..
+  184  cd /var/www/laravel
+  185  ls
+  186  git init
+  187  git status
+  188  git add -A
+  189  git status
+  190  git commit -m "initial commit"
+  191  git push -u origin master
+  192  git remote
+  193  git branch
+  194  git branch --merged
+  195  git checkout master
+  196  git branch --merged
+  197  git merge origin
+  198  git merge master
+  199  git add -A
+  200  git push -u origin master
+  201  git branch -a
+  202  git checkout origin
+  203  git branch
+  204  cd /var/www/laravel/config
+  205  vi app.php
+  206  nano  /etc/httpd/conf/httpd.conf
+  207  git branch -a
+  208  git pull origin master
+  209  git push origin master
+  210  git remote
+  211  cd /var/www/laravel
+  212  ls
+  213  ls -la
+  214  git init
+  215  git pull origin master
+  216  git init
+  217  git add laravel
+  218  git add -A
+  219  ls -la
+  220  git add -A
+  221  git commit
+  222  git reset
+  223  git status
+  224  git reset readme.md
+  225  git reset test.html
+  226  git status
+  227  ls 0la
+  228  ls 
+  229  git na
+  230  git init
+  231  git add -A
+  232  cd /var/www/laravel
+  233  ls
+  234  git init
+  235  ls
+  236  ls -la
+  237  git add -A
+  238  git status
+  239  git branch
+  240  git checkout master
+  241  git branch
+  242  git status
+  243  git reset
+  244  git status
+  245  git add laravel
+  246  git add .
+  247  nano /etc/httpd/conf/httpd.conf
+  248  systemctl restart httpd.service
+  249  git branch
+  250  git branch -a
+  251  git branch all
+  252  git branch
+  253  git branch -a
+  254  cd /var/www/laravel
+  255  git branch -a
+  256  git checkout master
+  257  git push origin master
+  258  git add -a
+  259  git add -A
+  260  git commit -m "initial commit"
+  261  git push -u origin mater
+  262  git push -u origin master
+  263  git pull origin master
+  264  cd ..
+  265  ls
+  266  cd .
+  267  cd cloned-repo
+  268  ls
+  269  cat test.html
+  270  nano html
+  271  nano test
+  272  nano test.html
+  273  git init
+  274  git status
+  275  git add test.html
+  276  git status
+  277  git commit -m "2nd commit"
+  278  git push -u origin master
+  279  git pull --help
+  280  git pull origin master
+  281  git status
+  282  nano test.html
+  283  git status
+  284  git add test.html
+  285  git status
+  286  git commit -m "2nd commit"
+  287  git push -u origin master
+  288  cd ..
+  289  ls
+  290  ls -la
+  291  cd /var/www/laravel
+  292  ls
+  293  rm test.html
+  294  ls 
+  295  cat readme.md
+  296  ls
+  297  git init
+  298  git add .
+  299  git add laravel
+  300  git add -A
+  301  git status
+  302  git commit -m "initial commit"
+  303  git push -u origin master
+  304  git pull origin mater
+  305  git pull origin master
+  306  ls
+  307  rm test.html
+  308  git add -A
+  309  git status
+  310  git commit -m "initial commit"
+  311  git push -u origin master
+  312  git
+  313  git config --global user.name "Your Name"
+  314  git config
+  315  git config --global user.name "karlraymundo"
+  316  git config --global user.name "karlernest.raymundo@global.edu.ph"
+  317  git config --list
+  318  git config --global user.email "karlernest.raymundo@global.edu.ph"
+  319  git config --global user.name "karlraymundo"
+  320  git config --list
+  321  git status
+  322  ls l-a
+  323  ls -la
+  324  ls
+  325  git 
+  326  git clone https://github.com/karlraymundo/test/blob/master/test.html
+  327  git clone https://github.com/karlraymundo/test
+  328  ls 
+  329  cd test
+  330  ls
+  331  nano test.html
+  332  git status
+  333  nano test.html
+  334  git status
+  335  ls
+  336  cd var/www/
+  337  cd /var/www
+  338  cd
+  339  cd /var/www
+  340  ls
+  341  cd laravel
+  342  ls
+  343  git add laravel
+  344  git init
+  345  git add laravel
+  346  git init
+  347  git add laravel.git
+  348  git add laravel
+  349  ls -la
+  350  ls
+  351  cd
+  352  cd /var/www/laravel
+  353  ls
+  354  git add .
+  355  git init
+  356  ls
+  357  git add .
+  358  cd ..
+  359  git add .
+  360  git status
+  361  ls
+  362  git commit -m "initial commit"
+  363  git status
+  364  git push -u origin master
+  365  cd ..
+  366  git push -u origin master
+  367  cd..
+  368  cd ..
+  369  git push  origin master
+  370  cd /var/www/
+  371  git push origin master
+  372  git init
+  373  git push origin master
+  374  git status
+  375  git init
+  376  cd /var/www/
+  377  ls
+  378  git init
+  379  git add laravel
+  380  ls
+  381  git status
+  382  git commit -m "initial commit"
+  383  git status
+  384  git commit -m "initial commit"
+  385  git add laravel
+  386  git reset
+  387  git status
+  388  git add .
+  389  git status
+  390  git reset
+  391  gits tatus
+  392  git status
+  393  git reset laravel
+  394  git status
+  395  git add
+  396  git add .
+  397  git status
+  398  git push -u origin master
+  399  git push -u test master
+  400  git init
+  401  git add laravel
+  402  git add .
+  403  git status
+  404  cd laravel
+  405  git init
+  406  git status
+  407  git add laravel
+  408  git add .
+  409  git status
+  410  git add -A
+  411  git status
+  412  git push -u origin master
+  413  git reset
+  414  git status
+  415  git init
+  416  ls
+  417  cat config
+  418  cd config
+  419  ls
+  420  cd ..
+  421  ls
+  422  ls -la
+  423  cd .git
+  424  ls
+  425  cat config
+  426  nano config
+  427  cd ..
+  428  git init
+  429  cd .git
+  430  cat config
+  431  cd ..
+  432  git init
+  433  git status
+  434  git add -A
+  435  git status
+  436  git push origin master
+  437  git remote set-url origin https://github.com/karlraymundo/test
+  438  git push -u origin master
+  439  cd .git
+  440  nano config
+  441  git
+  442  git show
+  443  git status
+  444  cd ..
+  445  git status
+  446  git add laravel
+  447  git status
+  448  git push -u origin master
+  449  git init
+  450  git add laravel
+  451  git push -u origin master
+  452  ls -l
+  453  ls -la
+  454  cd .git
+  455  ls
+  456  nano config
+  457  cat config
+  458  cd ..
+  459  git push -u test  master
+  460  git init
+  461  git push -u test master
+  462  git add laravel
+  463  git commit -m "initial commit"
+  464  git push -u test master
+  465  git push -u origin master
+  466  cd laravel
+  467  git add -A
+  468  git commit -m "initial commit"
+  469  git push -u origin master
+  470  git init
+  471  git add -A
+  472  git commit -m "initial commit"
+  473  git push -u origin master
+  474  ls la
+  475  ls -la
+  476  cd .git
+  477  nano config
+  478  git init
+  479  cd ..
+  480  git init
+  481  git add -A
+  482  git commit -m "initial commit"
+  483  git push -u origin master
+  484  history > karl.history.txt

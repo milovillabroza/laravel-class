@@ -1,0 +1,991 @@
+    1  php --version
+    2  systemctl status
+    3  systemctl status httpd
+    4  systemctl status mariadb
+    5  git
+    6  yum -y install git
+    7  cd /var/www/
+    8  git clone https://github.com/laravel/laravel.git
+    9  cd /var/www/laravel
+   10   composer install
+   11  curl -sS https://getcomposer.org/installer | php
+   12  mv composer.phar /usr/bin/composer
+   13  chmod +x /usr/bin/composer
+   14  composer -V
+   15  cd /var/www/laravel
+   16  composer install
+   17  chown -R apache:apache /var/www/laravel
+   18  chmod -R 755 /var/www/laravel
+   19  cd /var/www/laravel
+   20   mv .env.example .env
+   21   php artisan key:generate
+   22  cd /var/www/
+   23  git init
+   24  git status
+   25  git clone https://github.com/XxVincentPetatexX/test/blob/master/index.html
+   26  git clone https://github.com/XxVincentPetatexX/test
+   27  nano index.html
+   28  cd /XxVincentPetatexX
+   29  open .
+   30  git status
+   31  git add index.html
+   32  nano index.html
+   33  git add index.html
+   34  git commit -m "Initial html"
+   35  git status
+   36  git push origin master branch
+   37  git remote
+   38  git remote -v
+   39  git status
+   40  cd XxVincentPetatexX/
+   41  cd XxVincentPetatexX
+   42  cd test
+   43  git status
+   44  nano index.html
+   45  git commit -m "initial Commit"
+   46  git config --global user.email "vincentpetate@gmail.com"
+   47  git config --global user.name "XxVincentPetatexX"
+   48  git commit -m "initial Commit"
+   49  nano index.html
+   50  git commit -m "MY title"
+   51  git remote
+   52  git status
+   53  git push origin master
+   54  nano index.html
+   55  git commit -m "MY title"
+   56  git status
+   57  git push origin master
+   58  git status
+   59  nano index.html
+   60  git remote
+   61  git pull origin master
+   62  git commit -a -m "MY titles"
+   63  git pull origin master
+   64  git push origin master
+   65  git status
+   66  nano index.html
+   67  nano Hey.html
+   68  git commit -a -m "hey"
+   69  git push remote origin
+   70  git push origin master
+   71  giot status
+   72  git status
+   73  git remote
+   74  git pull origin hey hey now baby
+   75  git pull origin hey 
+   76  git status
+   77  cd 
+   78  cd var/www/test
+   79  cd var/www
+   80  cd var/www/
+   81  history
+   82  cd /var/www
+   83  cd test
+   84  git status
+   85  nano hey.html
+   86  nano index.html
+   87  git commit -a -m "Vincent"
+   88  git push origin master
+   89  git remote
+   90  git push origin slave
+   91  php artisan key:generate
+   92  history
+   93  cat /var/www/laravel/.env
+   94   nano /etc/httpd/conf/httpd.conf
+   95  systemctl restart httpd
+   96  cd var/www/laravel
+   97  cd var/www/laravel/
+   98  cd var/www
+   99  cd var/www/
+  100  cd va
+  101  cd var
+  102  cd /var
+  103  cd /var/www
+  104  cd /laravel
+  105  cd /public
+  106  cd laravel
+  107  cd public
+  108  git init
+  109  cd /var/www/laravel/public
+  110  git commit -a -m "Laravel Version 1"
+  111  git add -a
+  112  git status
+  113  cd /var/www/laravel/public
+  114  ls -la
+  115  git add css
+  116  git commit -m "Css"
+  117  git remote
+  118  git push
+  119  git push origin master
+  120  git remote
+  121  gitconfig
+  122  git config
+  123  history
+  124  git config --global user.email "vincentpetate@gmail.com"
+  125  git config --global user.name "XxVincentPetatexX"
+  126  git remote
+  127  git status
+  128  git remote
+  129  history
+  130  git clone https://github.com/XxVincentPetatexX/test
+  131  git remotegit remote
+  132  git remote
+  133  git commit -a -m "laravel"
+  134  git remote
+  135  git push origin maser
+  136  git push origin master
+  137  git init
+  138  git status
+  139  cd..
+  140  cd
+  141  cd /var/www/test
+  142  nano index.html
+  143  cd
+  144  cd /var/www/laravel/public
+  145  git config
+  146  history
+  147  cd test
+  148  git status
+  149  git commit -a -m "laravel"
+  150  git remote
+  151  git push origin master
+  152  ls -la
+  153  git clone https://github.com/laravel/laravel.git
+  154  ls- la
+  155  ls -la
+  156  git push origin master
+  157  git add laravel
+  158  git commit -a -ma "laravel"
+  159  git commit -a -m "laravel"
+  160  git push origin master
+  161  php artisan make:auth controller
+  162  php artisan make:controller auth
+  163  php --version
+  164  php artisan serve
+  165  history
+  166  ls -la
+  167  cd laravel
+  168  cd test
+  169  cd .
+  170  cd.
+  171  cd ..
+  172  cd laravel
+  173  nano welcome.blade.php
+  174  cd ..
+  175  add css
+  176  git add css
+  177  ls -la
+  178  cd laravel
+  179  ls -la
+  180  git remote
+  181  git add app
+  182  git commit -m "App"
+  183  git push origin master
+  184  git remote
+  185  git push origin master
+  186  history
+  187   git clone https://github.com/XxVincentPetatexX/test
+  188  git status
+  189  git remote
+  190  git push origin master
+  191  git push origin slave
+  192  cd ..
+  193  ls -la
+  194  git remote
+  195   git clone https://github.com/XxVincentPetatexX/test
+  196  git status
+  197  git add robots.txt
+  198  git commit -m "robot"
+  199  git remote
+  200  history
+  201   git config --global user.email "vincentpetate@gmail.com"
+  202  git config --global user.name "XxVincentPetatexX"
+  203  git remote
+  204  history
+  205   git push origin master
+  206  cd test
+  207  ls -la
+  208  cd laravel
+  209  ls -la
+  210  pswd
+  211  pwd
+  212  mv/var/www/laravel/public/test/laravel
+  213  mv/var/www/laravel/public/test/laravel/public /var/www/laravel/public/test/laravel
+  214  mv/var/www/laravel/public/test/laravel/public /var/www/laravel/public/test/
+  215  mv public /test
+  216  cd ..
+  217  ls -la
+  218  mv public /test
+  219  pwd
+  220  cd ..
+  221  mv test /public
+  222  cd public
+  223  cd test
+  224  ls -ls
+  225  cd laravel
+  226  ls -la
+  227  cd public
+  228  cd ..
+  229  ls -la
+  230  git init
+  231  git remote
+  232  history
+  233   git config --global user.email "vincentpetate@gmail.com"
+  234   git config --global user.name "XxVincentPetatexX"
+  235  git remote
+  236   git clone https://github.com/XxVincentPetatexX/test
+  237  cd test
+  238  git remote
+  239  /help
+  240  -help
+  241  mv
+  242  --help
+  243  mv --help
+  244  cd test
+  245  -ls -la
+  246  ls -la
+  247  cd laravel
+  248  cp public test
+  249  ls -la
+  250  cd ..
+  251  ls -la
+  252  mv test /public
+  253  ls -la
+  254  cd test
+  255  cd ..
+  256  pwd
+  257  cd test
+  258  ls -la
+  259  tests
+  260  cd testd
+  261  cd tests
+  262  ls -la
+  263  cd public
+  264  cd ..
+  265  ls -la
+  266  cd public
+  267  ls -la
+  268  cd ..
+  269  ls -la
+  270  cd test
+  271  ls -la
+  272  laravel
+  273  cd laravel
+  274  cd ..
+  275  cd laravel
+  276  ;s -la
+  277  ls -la
+  278  history
+  279  git clone https://github.com/XxVincentPetatexX/test
+  280  ls -la
+  281  history
+  282   mv test /public
+  283  cd test
+  284  cd public
+  285  ls -la
+  286  cd ..
+  287   mv public /test
+  288  cd test
+  289  cd public
+  290  ls -la
+  291  cd ..
+  292  -ls -la
+  293  ls -la
+  294  cd wwww
+  295  cd www
+  296  cd var
+  297  cd laravel
+  298  ls -la
+  299  cd ..
+  300  ls -la
+  301  cd test
+  302  ls -la
+  303  cd ..
+  304  cd laravel
+  305  ls -la
+  306  cd ..
+  307  cd test
+  308  git remote
+  309  git clone https://github.com/laravel/laravel.git
+  310  ls -la
+  311  cd laravel
+  312  ls -la
+  313  cp public test
+  314  ls -la
+  315  cp test public
+  316  cp test public/
+  317  cp public /test
+  318  ls -la
+  319  cd ..
+  320  ls -la
+  321  cd laravel
+  322  history
+  323   git clone https://github.com/XxVincentPetatexX/test
+  324  ls -la
+  325  mv public test
+  326  cd test
+  327  ls -la
+  328  git remote
+  329  git add css
+  330  ls -la
+  331  cd public
+  332  git remote
+  333  ls -la
+  334  git add css
+  335  git commit -m "css"
+  336  git push origin master
+  337  ls -la
+  338  git add favicon.ico
+  339  git commit -m "Icon"
+  340  git push origin master
+  341  ls -la
+  342  git add .htaccess
+  343  git commit -m "HTAccess"
+  344  git push origin master
+  345  ls -la
+  346  git add index.php
+  347  git commit -m "index.php"
+  348  git push origin master
+  349  ls -la
+  350  git add js
+  351  git commit -m "JS"
+  352  git push origin master
+  353  ls -la
+  354  git add robots.txt
+  355  git push origin master
+  356  git add robots.txt
+  357  git commit -m "robots"
+  358  git push origin master
+  359  git add web.config
+  360  git commit -m "WEBCONFIG"
+  361  git push origin master
+  362  ls -la
+  363  cd var
+  364  cd ..
+  365  cd laravel
+  366  ls -la
+  367  cd ..
+  368  ls -la
+  369  cd test
+  370  ls -la
+  371  cd ..
+  372  ls -la
+  373  laravel
+  374  cd laravel
+  375  git clone https://github.com/laravel/laravel.git
+  376  ls -la
+  377  cd ..
+  378   nano /etc/httpd/conf/httpd.conf
+  379  systemctl restart httpd
+  380   nano /etc/httpd/conf/httpd.conf
+  381  ls -la
+  382  cd test
+  383  ls-la
+  384  ls -la
+  385  cd ..
+  386  ls -la
+  387  rm -r laravel
+  388  ls -la
+  389  cd laravel
+  390  ls -la
+  391  cd ..
+  392  git clone https://github.com/laravel/laravel.git
+  393  rm -rf laravel
+  394  ls -la
+  395  git clone https://github.com/laravel/laravel.git
+  396   nano /etc/httpd/conf/httpd.conf
+  397  systemctl restart httpd
+  398  cd var
+  399  cd /var
+  400  cd www
+  401  ls -la
+  402  cd laravel
+  403  ls -la
+  404  cd ..
+  405   nano /etc/httpd/conf/httpd.conf
+  406  systemctl restart httpd
+  407   nano /etc/httpd/conf/httpd.conf
+  408  systemctl restart httpd
+  409  cd var
+  410  cd www
+  411  cd laravel
+  412  systemctl restart httpd
+  413   nano /etc/httpd/conf/httpd.conf
+  414  cd /var/www/laravel
+  415   composer install
+  416  chown -R apache:apache /var/www/laravel
+  417  chmod -R 755 /var/www/laravel
+  418   cd /var/www/laravel
+  419   mv .env.example .env
+  420  php artisan key:generate
+  421  cat /var/www/laravel/.env
+  422  sysstemctl restart httpf
+  423  sysstemctl restart httpd
+  424  systemctl restart httpd
+  425  ls -la
+  426  cd ..
+  427  cd test
+  428  ls -la
+  429  cd laravel
+  430  ls -la
+  431  cd test
+  432  ls -la
+  433  git remote
+  434  cd laravel
+  435  git remote
+  436  git add -a
+  437  ls -la
+  438  cd ..
+  439  ls -la
+  440  cd 
+  441  cd var
+  442  cd /var
+  443  cd www
+  444  ls-la
+  445  ls -la
+  446  cd laravel
+  447  ls -la
+  448  cd ..
+  449  cd test
+  450  ls -la
+  451  cd laravel
+  452  ls- la
+  453  ls -la
+  454  git remote
+  455  history
+  456   1  php --version
+  457      2  systemctl status
+  458      3  systemctl status httpd
+  459      4  systemctl status mariadb
+  460      5  git
+  461      6  yum -y install git
+  462      7  cd /var/www/
+  463      8  git clone https://github.com/laravel/laravel.git
+  464      9  cd /var/www/laravel
+  465     10   composer install
+  466     11  curl -sS https://getcomposer.org/installer | php
+  467     12  mv composer.phar /usr/bin/composer
+  468     13  chmod +x /usr/bin/composer
+  469     14  composer -V
+  470     15  cd /var/www/laravel
+  471     16  composer install
+  472     17  chown -R apache:apache /var/www/laravel
+  473     18  chmod -R 755 /var/www/laravel
+  474     19  cd /var/www/laravel
+  475     20   mv .env.example .env
+  476     21   php artisan key:generate
+  477     22  cd /var/www/
+  478     23  git init
+  479     24  git status
+  480     25  git clone https://github.com/XxVincentPetatexX/test/blob/master/index.html
+  481     26  git clone https://github.com/XxVincentPetatexX/test
+  482     27  nano index.html
+  483     28  cd /XxVincentPetatexX
+  484     29  open .
+  485     30  git status
+  486     31  git add index.html
+  487     32  nano index.html
+  488     33  git add index.html
+  489     34  git commit -m "Initial html"
+  490     35  git status
+  491     36  git push origin master branch
+  492     37  git remote
+  493     38  git remote -v
+  494     39  git status
+  495     40  cd XxVincentPetatexX/
+  496     41  cd XxVincentPetatexX
+  497     42  cd test
+  498     43  git status
+  499     44  nano index.html
+  500     45  git commit -m "initial Commit"
+  501     46  git config --global user.email "vincentpetate@gmail.com"
+  502     47  git config --global user.name "XxVincentPetatexX"
+  503     48  git commit -m "initial Commit"
+  504     49  nano index.html
+  505     50  git commit -m "MY title"
+  506     51  git remote
+  507     52  git status
+  508     53  git push origin master
+  509     54  nano index.html
+  510     55  git commit -m "MY title"
+  511     56  git status
+  512     57  git push origin master
+  513     58  git status
+  514     59  nano index.html
+  515     60  git remote
+  516     61  git pull origin master
+  517     62  git commit -a -m "MY titles"
+  518     63  git pull origin master
+  519     64  git push origin master
+  520     65  git status
+  521     66  nano index.html
+  522     67  nano Hey.html
+  523     68  git commit -a -m "hey"
+  524     69  git push remote origin
+  525     70  git push origin master
+  526     71  giot status
+  527     72  git status
+  528     73  git remote
+  529     74  git pull origin hey hey now baby
+  530     75  git pull origin hey
+  531     76  git status
+  532     77  cd
+  533     78  cd var/www/test
+  534     79  cd var/www
+  535     80  cd var/www/
+  536     81  history
+  537     82  cd /var/www
+  538     83  cd test
+  539     84  git status
+  540     85  nano hey.html
+  541     86  nano index.html
+  542     87  git commit -a -m "Vincent"
+  543     88  git push origin master
+  544     89  git remote
+  545     90  git push origin slave
+  546     91  php artisan key:generate
+  547     92  history
+  548     93  cat /var/www/laravel/.env
+  549     94   nano /etc/httpd/conf/httpd.conf
+  550     95  systemctl restart httpd
+  551     96  cd var/www/laravel
+  552     97  cd var/www/laravel/
+  553     98  cd var/www
+  554     99  cd var/www/
+  555    100  cd va
+  556    101  cd var
+  557    102  cd /var
+  558    103  cd /var/www
+  559    104  cd /laravel
+  560    105  cd /public
+  561    106  cd laravel
+  562    107  cd public
+  563    108  git init
+  564    109  cd /var/www/laravel/public
+  565    110  git commit -a -m "Laravel Version 1"
+  566    111  git add -a
+  567    112  git status
+  568    113  cd /var/www/laravel/public
+  569    114  ls -la
+  570    115  git add css
+  571    116  git commit -m "Css"
+  572    117  git remote
+  573    118  git push
+  574    119  git push origin master
+  575    120  git remote
+  576    121  gitconfig
+  577    122  git config
+  578    123  history
+  579    124  git config --global user.email "vincentpetate@gmail.com"
+  580    125  git config --global user.name "XxVincentPetatexX"
+  581    126  git remote
+  582    127  git status
+  583    128  git remote
+  584    129  history
+  585    130  git clone https://github.com/XxVincentPetatexX/test
+  586    131  git remotegit remote
+  587    132  git remote
+  588    133  git commit -a -m "laravel"
+  589    134  git remote
+  590    135  git push origin maser
+  591    136  git push origin master
+  592    137  git init
+  593    138*
+  594    139  git status
+  595    140  cd..
+  596    141  cd
+  597    142  cd /var/www/test
+  598    143  nano index.html
+  599    144  cd
+  600    145  cd /var/www/laravel/public
+  601    146  git config
+  602    147  history
+  603    148  cd test
+  604    149  git status
+  605    150  git commit -a -m "laravel"
+  606    151  git remote
+  607    152  git push origin master
+  608    153  ls -la
+  609    154  git clone https://github.com/laravel/laravel.git
+  610    155  ls- la
+  611    156  ls -la
+  612    157  git push origin master
+  613    158  git add laravel
+  614    159  git commit -a -ma "laravel"
+  615    160  git commit -a -m "laravel"
+  616    161  git push origin master
+  617    162  php artisan make:auth controller
+  618    163  php artisan make:controller auth
+  619    164  php --version
+  620    165  php artisan serve
+  621    166  history
+  622    167  ls -la
+  623    168  cd laravel
+  624    169  cd test
+  625    170  cd .
+  626    171  cd.
+  627    172  cd ..
+  628    173  cd laravel
+  629    174  nano welcome.blade.php
+  630    175  cd ..
+  631    176  add css
+  632    177  git add css
+  633    178  ls -la
+  634    179  cd laravel
+  635    180  ls -la
+  636    181  git remote
+  637    182  git add app
+  638    183  git commit -m "App"
+  639    184  git push origin master
+  640    185  git remote
+  641    186  git push origin master
+  642    187  history
+  643    188   git clone https://github.com/XxVincentPetatexX/test
+  644    189  git status
+  645    190  git remote
+  646    191  git push origin master
+  647    192  git push origin slave
+  648    193  cd ..
+  649    194  ls -la
+  650    195  git remote
+  651    196   git clone https://github.com/XxVincentPetatexX/test
+  652    197  git status
+  653    198  git add robots.txt
+  654    199  git commit -m "robot"
+  655    200  git remote
+  656    201  history
+  657    202   git config --global user.email "vincentpetate@gmail.com"
+  658    203  git config --global user.name "XxVincentPetatexX"
+  659    204  git remote
+  660    205  history
+  661    206   git push origin master
+  662    207  cd test
+  663    208  ls -la
+  664    209  cd laravel
+  665    210  ls -la
+  666    211  pswd
+  667    212  pwd
+  668    213  mv/var/www/laravel/public/test/laravel
+  669    214  mv/var/www/laravel/public/test/laravel/public /var/www/laravel/public/test/laravel
+  670    215  mv/var/www/laravel/public/test/laravel/public /var/www/laravel/public/test/
+  671    216  mv public /test
+  672    217  cd ..
+  673    218  ls -la
+  674    219  mv public /test
+  675    220  pwd
+  676    221  cd ..
+  677    222  mv test /public
+  678    223  cd public
+  679    224  cd test
+  680    225  ls -ls
+  681    226  cd laravel
+  682    227  ls -la
+  683    228  cd public
+  684    229  cd ..
+  685    230  ls -la
+  686    231  git init
+  687    232  git remote
+  688    233  history
+  689    234   git config --global user.email "vincentpetate@gmail.com"
+  690    235   git config --global user.name "XxVincentPetatexX"
+  691    236  git remote
+  692    237   git clone https://github.com/XxVincentPetatexX/test
+  693    238  cd test
+  694    239  git remote
+  695    240  /help
+  696    241  -help
+  697    242  mv
+  698    243  --help
+  699    244  mv --help
+  700    245  cd test
+  701    246  -ls -la
+  702    247  ls -la
+  703    248  cd laravel
+  704    249  cp public test
+  705    250  ls -la
+  706    251  cd ..
+  707    252  ls -la
+  708    253  mv test /public
+  709    254  ls -la
+  710    255  cd test
+  711    256  cd ..
+  712    257  pwd
+  713    258  cd test
+  714    259  ls -la
+  715    260  tests
+  716    261  cd testd
+  717    262  cd tests
+  718    263  ls -la
+  719    264  cd public
+  720    265  cd ..
+  721    266  ls -la
+  722    267  cd public
+  723    268  ls -la
+  724    269  cd ..
+  725    270  ls -la
+  726    271  cd test
+  727    272  ls -la
+  728    273  laravel
+  729    274  cd laravel
+  730    275  cd ..
+  731    276  cd laravel
+  732    277  ;s -la
+  733    278  ls -la
+  734    279  history
+  735    280  git clone https://github.com/XxVincentPetatexX/test
+  736    281  ls -la
+  737    282  history
+  738    283   mv test /public
+  739    284  cd test
+  740    285  cd public
+  741    286  ls -la
+  742    287  cd ..
+  743    288   mv public /test
+  744    289  cd test
+  745    290  cd public
+  746    291  ls -la
+  747    292  cd ..
+  748    293  -ls -la
+  749    294  ls -la
+  750    295  cd wwww
+  751    296  cd www
+  752    297  cd var
+  753    298  cd laravel
+  754    299  ls -la
+  755    300  cd ..
+  756    301  ls -la
+  757    302  cd test
+  758    303  ls -la
+  759    304  cd ..
+  760    305  cd laravel
+  761    306  ls -la
+  762    307  cd ..
+  763    308  cd test
+  764    309  git remote
+  765    310  git clone https://github.com/laravel/laravel.git
+  766    311  ls -la
+  767    312  cd laravel
+  768    313  ls -la
+  769    314  cp public test
+  770    315  ls -la
+  771    316  cp test public
+  772    317  cp test public/
+  773    318  cp public /test
+  774    319  ls -la
+  775    320  cd ..
+  776    321  ls -la
+  777    322  cd laravel
+  778    323  history
+  779    324   git clone https://github.com/XxVincentPetatexX/test
+  780    325  ls -la
+  781    326  mv public test
+  782    327  cd test
+  783    328  ls -la
+  784    329  git remote
+  785    330  git add css
+  786    331  ls -la
+  787    332  cd public
+  788    333  git remote
+  789    334  ls -la
+  790    335  git add css
+  791    336  git commit -m "css"
+  792    337  git push origin master
+  793    338  ls -la
+  794    339  git add favicon.ico
+  795    340  git commit -m "Icon"
+  796    341  git push origin master
+  797    342  ls -la
+  798    343  git add .htaccess
+  799    344  git commit -m "HTAccess"
+  800    345  git push origin master
+  801    346  ls -la
+  802    347  git add index.php
+  803    348  git commit -m "index.php"
+  804    349  git push origin master
+  805    350  ls -la
+  806    351  git add js
+  807    352  git commit -m "JS"
+  808    353  git push origin master
+  809    354  ls -la
+  810    355  git add robots.txt
+  811    356  git push origin master
+  812    357  git add robots.txt
+  813    358  git commit -m "robots"
+  814    359  git push origin master
+  815    360  git add web.config
+  816    361  git commit -m "WEBCONFIG"
+  817    362  git push origin master
+  818    363  ls -la
+  819    364  cd var
+  820    365  cd ..
+  821    366  cd laravel
+  822    367  ls -la
+  823    368
+  824    369  ls 
+  825    370  cd te
+  826    371  ls -la
+  827    3
+  828    373  ls -la
+  829    374  laravel
+  830    375  cd lar
+  831    376  git clo
+  832    377  ls -la
+  833    37
+  834    379   nano 
+  835    380  systemctl 
+  836    381   nano 
+  837    382  ls -la
+  838    3
+  839    384  ls-la
+  840    385
+  841    386  cd ..
+  842    387  ls -la
+  843    388  rm -r laravel
+  844    389  l
+  845    390  cd laravel
+  846    391  ls -la
+  847    392  cd ..
+  848    
+  849    394  rm -rf 
+  850    395  ls -la
+  851    396  git clone https://github.com/laravel/l
+  852    397   nano /etc
+  853    398  systemctl 
+  854    399  cd var
+  855    400  cd /var
+  856    401  cd www
+  857    402  ls -la
+  858   
+  859    404  ls -l
+  860    405  cd ..
+  861    406   nano /etc/
+  862    407  systemctl restart httpd
+  863    408   nano /etc/httpd/conf
+  864    409  systemctl 
+  865    410  cd var
+  866    411  cd w
+  867    412  cd laravel
+  868    413  sys
+  869    414   nano /etc
+  870    415  cd /var
+  871    416   composer install
+  872    417  chown -R apache:apache /var/www/
+  873    418  chmod -R 755 /var/www/laravel
+  874    419   cd /var/www
+  875    420   mv .env.e
+  876    421  php art
+  877    422  cat /var/www/laravel/.e
+  878    423  sysstem
+  879    424  sysste
+  880    425  systemctl 
+  881    426  ls -la
+  882    427  cd .
+  883    428  cd 
+  884    429  ls -la
+  885    430  cd laravel
+  886    431  ls -la
+  887    432  cd test
+  888    433  ls -la
+  889    434  git remote
+  890    435  cd laravel
+  891    436  git remote
+  892    437 
+  893    438  ls -la
+  894    439  cd ..
+  895    440  ls -la
+  896    441  cd
+  897    442  cd var
+  898    443  cd /var
+  899    
+  900    445  ls-la
+  901    446  ls
+  902    447  cd la
+  903    448  ls -la
+  904    449  cd ..
+  905    450  cd
+  906    451  ls 
+  907    452  cd la
+  908    453  ls- la
+  909    454  l
+  910    455  git remot
+  911    456  history
+  912  cd var
+  913  cd /var
+  914  cd www
+  915  cd test
+  916  ls -la
+  917  cd laravel
+  918  ls -la
+  919  cd test
+  920  ls -la
+  921  cd laravel
+  922  git remote
+  923  ls -la
+  924  cd ..
+  925  ls -la
+  926  git remote
+  927  cd app
+  928  ls -la
+  929  history
+  930  ls -la
+  931  clear
+  932  ls -la
+  933  git add -a
+  934  git add .
+  935  git commit -a -m "app uploaded"
+  936  git push origin mater
+  937  git push origin mastaer
+  938  git add .
+  939  git commit  -m "app uploaded"
+  940  git push origin mastaer
+  941  git push origin master
+  942  git add .
+  943  git commit  -m "app uploaded"
+  944  git push origin master
+  945  git init
+  946  git push origin master
+  947  git remotew
+  948  git remote
+  949  cd ..
+  950  ls- la
+  951  ls -la
+  952  git remote
+  953  git add .
+  954  git commit -m "all laravel files"
+  955  git push origin master
+  956  cd ..
+  957  ls -la
+  958  git push origin master
+  959  cd /var
+  960  cd www
+  961  cd test
+  962  ls -la
+  963  nano index.html
+  964  git commit -m "With css style"
+  965  git push origin master
+  966  git pull origin master
+  967  git push origin master
+  968  nano index.html
+  969  git commit -m "With css style"
+  970  git push origin master
+  971  nano index.html
+  972  git add index.html
+  973  git commit -m "css"
+  974  git push origin master
+  975  ls -la
+  976  cd laravel
+  977  ls -la
+  978  cd app
+  979  ls -la
+  980  git add console
+  981  git add Console
+  982  git commit -m "Console"
+  983  git push origin master
+  984  git remote
+  985  cd ..
+  986  git remote
+  987  git add app
+  988  git commit -m "app"
+  989  ls -la
+  990  git push origin master
+  991  history > vince.history.txt

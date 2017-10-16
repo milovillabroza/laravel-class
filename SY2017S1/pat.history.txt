@@ -1,0 +1,80 @@
+    1  passwd
+    2  yum -y update 
+    3  yum -y install epel release 
+    4  yum -y update
+    5  yum -y install httpd mariadb-server mariadb 
+    6  rpm -Uvh https://mirror.webtatic.com/yum/el7/webtatic-release.rpm
+    7   yum -y install php56w php56w-mysql php56w-mcrypt php56w-dom php56w-mbstring
+    8  php -v
+    9  systemctl start httpd
+   10  systemctl enable httpd
+   11  yum update 
+   12  php -v
+   13  systemctl enable mariadb
+   14  mysql_secure_installation
+   15  curl -sS https://getcomposer.org/installer | php
+   16  chmod +x /usr/bin/composer
+   17  mv composer.phar /usr/bin/composer
+   18  chmod +x /usr/bin/composer
+   19  composer -V
+   20  yum -y install git 
+   21  cd /var/www/
+   22  git clone https://github.com/laravel/laravel 
+   23  cd /var/www/laravel 
+   24  composer install 
+   25  chown -R apache:a[ache /var/www/laravel
+   26  chown -R apache:apache /var/www/laravel
+   27  chown -R 755 /var/www/laravel
+   28  cd /var/www/laravel 
+   29  mv .env.example .env 
+   30  php artosan key:generate 
+   31  php artisan key:generate 
+   32  cat /var/www/laravel/.env
+   33  nano /etc/httpd/conf/httpd.conf
+   34  systemctl restart httpd
+   35  systemctl status httpd.service
+   36  -l
+   37  ls -la
+   38  systemctl restart httpd
+   39  nano /etc/httpd/conf/httpd.conf
+   40  systemctl restart httpd
+   41  cd /root
+   42  mkdir /var/www/gitrepo
+   43  cd /var/www/gitrepo
+   44  git clone https://github.com/patesmade/sample1
+   45  git add 
+   46  git add html sample.git
+   47  git help confi
+   48  git help config
+   49  vd /laravel
+   50  cd /laravel
+   51  cd /var/www/laravel
+   52  composer install
+   53  chown -R apache:apache /var/www/laravel
+   54  chmod -R 755 /var/www/laravel
+   55  ls -la
+   56  mv .env.example .env
+   57  cd /var/www/laravel 
+   58  mv .env.example .env
+   59  ls -la
+   60  php artisan key:generate 
+   61  cd config
+   62  vi app.php
+   63  cd gitrepo
+   64  cd gitrepo/
+   65  cd root
+   66  cd /root
+   67  cd /gitrepo
+   68  cd /var/www/gitrepo
+   69  git --version 
+   70  git config --global user.name "Pat Esmade"
+   71  git config --global user.email "patesmade@outlook.com"
+   72  git conig --list
+   73  git config --list
+   74  git help config
+   75  ls
+   76  ls -la
+   77  git init
+   78  git status 
+   79  -bash: cd: root: No such file or directory
+   80  history > pat.history.txt
